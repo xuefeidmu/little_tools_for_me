@@ -1,3 +1,5 @@
+# 选择总文件夹后可转dicom为nifti
+
 import os
 import pydicom
 from tkinter import Tk, filedialog
